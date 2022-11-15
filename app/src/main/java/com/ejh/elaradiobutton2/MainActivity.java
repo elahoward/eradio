@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
                             Log.d("RDO", "Green");
                         break;
                 }
+
             }
         });
     }
